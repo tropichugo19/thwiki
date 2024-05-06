@@ -2,4 +2,4 @@
 
 
 
-## [Digital Gardens](digitalgardens.md)
+## [Digital Gardens](/digitalgarden/digitalgardens.md)
