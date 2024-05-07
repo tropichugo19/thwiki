@@ -1,6 +1,6 @@
 # Digital Garden Homepage
 
-## [Daily Reading](/dailyreading.md)
+## [Daily Reading](/digitalgardens.md/dailyreading.md)
 
 ## Links of Note
 ### [Digital Gardens](/thwiki/digitalgardens.md/digitalgardens)
